@@ -1,3 +1,3 @@
 # acmgithubworkshop
 
-Comminting stuff whoo
+Committing stuff whoo
